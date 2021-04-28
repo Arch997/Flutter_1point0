@@ -58,7 +58,7 @@ class HelloWorldApp extends StatelessWidget {
                           'Hello world',
                           textDirection: TextDirection.ltr,
                           style: TextStyle(
-                          fontSize: 15,
+                          fontSize: 14,
                           color: Colors.white,
                           fontWeight: FontWeight.bold,
                         ),
@@ -80,7 +80,7 @@ class HelloWorldApp extends StatelessWidget {
                           'Hello world',
                           textDirection: TextDirection.ltr,
                           style: TextStyle(
-                          fontSize: 15,
+                          fontSize: 14,
                           color: Colors.white,
                           fontWeight: FontWeight.bold,
                         ),
@@ -102,7 +102,7 @@ class HelloWorldApp extends StatelessWidget {
                           'Hello world',
                           textDirection: TextDirection.ltr,
                           style: TextStyle(
-                          fontSize: 15,
+                          fontSize: 14,
                           color: Colors.white,
                           fontWeight: FontWeight.bold,
                         ),
@@ -124,7 +124,7 @@ class HelloWorldApp extends StatelessWidget {
                             'Hello world',
                             textDirection: TextDirection.ltr,
                             style: TextStyle(
-                            fontSize: 15,
+                            fontSize: 14,
                             color: Colors.white,
                             fontWeight: FontWeight.bold,
                           ),
